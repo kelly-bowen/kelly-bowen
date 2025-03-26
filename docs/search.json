@@ -18,7 +18,7 @@
     "href": "projects/index.html#environmental-health-and-sarcoidosis",
     "title": "Projects",
     "section": "Environmental Health and Sarcoidosis",
-    "text": "Environmental Health and Sarcoidosis\nAnother project focuses on examining the relationship between residential air pollution exposure and pulmonary sarcoidosis pathology. By leveraging geospatial techniques and analyzing explant patterns of disease, this work aims to uncover environmental risk factors that may influence disease progression.\n\nView the tutorial for this template (+ download link)"
+    "text": "Environmental Health and Sarcoidosis\nAnother project that I am working on is looking at the relationship between residential air pollution exposure and pulmonary sarcoidosis pathology. By leveraging geospatial techniques and analyzing explant patterns of disease, this work aims to uncover environmental risk factors that may influence disease progression.\n\nView the tutorial for this template (+ download link)"
   },
   {
     "objectID": "cv/index.html",
@@ -26,6 +26,20 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "In his book, “How to be a Modern Scientist,” Jeffrey Leek discusses the current landscape of research and publication processes, which I found very helpful as someone in early stages of their academic career. An aspect of the book that I particularly appreciated and benefited from was the emphasis on making research highly accessible. This included steps from writing in a clear manner, submitting articles to pre-print sites, and adding published data sets to data repositories. After reading the practical steps included in the book, I am more inclined to use these resources and processes. While I was somewhat familiar with data repositories before as well, the idea that all published data should ideally be available or accessible in some way, along with the accompanying code used for analysis, was relatively new to me. All of this helps ensure that our work is reproducible.Finally, to make research findings even more accessible, the author discusses the use of social media. As a graduate student, I am just beginning to work on cultivating a social media presence. This is something that I have found more challenging, but I think it will be an important skill for me to learn going forward. Overall, reading and reflecting upon this book made me consider how I want to contribute to a research culture focused on transparency and collaboration, along with suggesting clear steps for putting these ideals into practice.\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "blog/index.html#reflections-on-how-to-be-a-modern-scientist",
+    "href": "blog/index.html#reflections-on-how-to-be-a-modern-scientist",
+    "title": "Blog",
+    "section": "",
+    "text": "In his book, “How to be a Modern Scientist,” Jeffrey Leek discusses the current landscape of research and publication processes, which I found very helpful as someone in early stages of their academic career. An aspect of the book that I particularly appreciated and benefited from was the emphasis on making research highly accessible. This included steps from writing in a clear manner, submitting articles to pre-print sites, and adding published data sets to data repositories. After reading the practical steps included in the book, I am more inclined to use these resources and processes. While I was somewhat familiar with data repositories before as well, the idea that all published data should ideally be available or accessible in some way, along with the accompanying code used for analysis, was relatively new to me. All of this helps ensure that our work is reproducible.Finally, to make research findings even more accessible, the author discusses the use of social media. As a graduate student, I am just beginning to work on cultivating a social media presence. This is something that I have found more challenging, but I think it will be an important skill for me to learn going forward. Overall, reading and reflecting upon this book made me consider how I want to contribute to a research culture focused on transparency and collaboration, along with suggesting clear steps for putting these ideals into practice.\n\n\nView the tutorial for this template (+ download link)"
   },
   {
     "objectID": "index.html",
